@@ -602,7 +602,14 @@ ul.menu > li:hover > a {
 /* end content */
 
 /* footer */
+
+.bg-footer {
+  background: #f8f8f8;
+}
+
 .footer {
+  width: 1200px;
+  margin: 0 auto;
   background: #f8f8f8;
   padding-top: 20px;
 }
@@ -633,6 +640,7 @@ ul.menu > li:hover > a {
 .fl1 {
   float: left;
   width: 25%;
+  display: block;
 }
 
 .fl2 {
